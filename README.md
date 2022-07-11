@@ -7,7 +7,7 @@
 **If you like ADVICE GENERATOR or any of my projects, please consider [connecting with me][linkedin] for hiring, collaboration, sponsorships (and any other enquiry!)  ❤**
 <br />
 <br />
-<a href="https://stephen-eneji.github.io/advice-generator-app-main.github.io/" target="_blank">Live Site</a>
+<a href="https://stephen-eneji.github.io/advice-generator-app-main.github.io/" target="_blank">❤❤ VISIT Live Site ❤❤</a>
 
 ---
 
