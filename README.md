@@ -3,21 +3,16 @@
 
 > Coded By [Stephen Eneji](https://github.com/stephen-eneji)
 <br/>
->
 
-**If you like ADVICE GENERATOR or any of my projects, please consider [connecting with me][linkedin] for hiring, collaboration, sponsorships (and any other enquiry!) ❤**
-
+**If you like ADVICE GENERATOR or any of my projects, please consider [connecting with me][linkedin] for hiring, collaboration, sponsorships (and any other enquiry!)  ❤**
 <br />
 <br />
+<a href="https://stephen-eneji.github.io/advice-generator-app-main.github.io/" target="_blank">Live Site</a>
 
 ---
 
 # Credits
-
-
 This was made *entirely* from scratch as a solution to the practise challenges provided by [FrontEndMentor][frontendmentor]. I'd like to give special thanks to [FrontEndMentor][frontendmentor] for their amazing contents and materials. They make Front-End Development much more intresting and easier to learn.
-
-
 
 ---
 
