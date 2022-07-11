@@ -30,7 +30,7 @@ Reach out to me on of the following places!
 # License
 
 
-- Copyright 2020 © <a href="https://github.com/stephen-eneji/" target="_blank">Stephen Eneji</a>.
+- Copyright 2022 © <a href="https://github.com/stephen-eneji/" target="_blank">Stephen Eneji</a>.
 
 [facebook]: https://facebook.com/heisenejii
 [twitter]: https://twitter.com/heisenejii
